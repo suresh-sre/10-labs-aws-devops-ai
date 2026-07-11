@@ -1,0 +1,7 @@
+boto3
+click
+python-dotenv
+pandas
+jinja2
+pytest
+rich

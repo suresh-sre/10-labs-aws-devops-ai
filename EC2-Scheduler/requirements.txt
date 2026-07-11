@@ -1,0 +1,6 @@
+boto3
+schedule
+python-dotenv
+fastapi
+uvicorn
+pytest
